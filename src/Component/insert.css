@@ -1,0 +1,47 @@
+/* h1{
+    color:black;
+    background-color:crimson;
+}
+.zz{  
+    width:100px;
+    height:100px;
+    float: left;
+    border-radius: 400px;
+    margin-left: 5%;
+    padding: 1%;
+
+    
+}
+.ff{
+    background-color: pink;
+    height:50%;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+       
+} 
+h3{
+    
+    color:darkorchid;
+    margin-left: 25%;
+    padding: 1%;
+}
+h4{
+    
+    color:darkorchid;
+    margin-left: 25%;
+    padding: 1%;
+}
+.kk{
+    color: white;
+    background-color:slategray;
+    padding: 30px;
+    width: 100%;
+    margin: auto;
+    font-size: large;
+}
+.kk:hover{
+color: black;
+background-color: crimson;
+} */
